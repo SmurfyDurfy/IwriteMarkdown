@@ -1,4 +1,4 @@
-# how to make cake in md
+# how to make cake in markdown
 ______
 ## ingredients:
 - flower
