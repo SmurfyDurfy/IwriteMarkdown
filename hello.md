@@ -1,2 +1,12 @@
 # how to make cake in md
-ingredients flower,water,sugar,unsolted butter,venala essence,cake powder and eggs
+______
+## ingredients:
+- flower
+- water
+- sugar
+- unsalted butter
+- venala
+- essence
+- cake
+- powder 
+-  eggs
